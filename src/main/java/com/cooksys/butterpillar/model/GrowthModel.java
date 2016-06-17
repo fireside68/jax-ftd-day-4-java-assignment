@@ -5,6 +5,10 @@ public class GrowthModel {
 
 	private double lengthToWingspan;
 	private double leavesEatenToWeight;
+	
+	public GrowthModel(){
+		
+	}
 
 	public double getLengthToWingspan() {
 		return lengthToWingspan;

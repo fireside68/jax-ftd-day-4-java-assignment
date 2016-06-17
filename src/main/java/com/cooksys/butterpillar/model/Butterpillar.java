@@ -4,7 +4,10 @@ public class Butterpillar {
 	
 	private double length;
 	private double leavesEaten;
-
+	
+	public Butterpillar(){
+		
+	}
 	
 
 	public double getLength() {

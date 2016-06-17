@@ -4,6 +4,10 @@ public class Catterfly {
 	
 	private double wingspan;
 	private double weight;
+	
+	public Catterfly() {
+		
+	}
 
 	public double getWingspan() {
 		return wingspan;
